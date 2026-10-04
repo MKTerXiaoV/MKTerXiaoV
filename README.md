@@ -9,8 +9,10 @@
 
 ## 🩺 市场部体检 Skill 全家桶
 
-一个链接装齐 4 个：关键信息体检 · 活动设计体检 · 业务分析体检 · 证据体检
+一个链接装齐 5 个：证据体检 · 业务分析体检 · 洞察体检 🆕 · 关键信息体检 · 活动设计体检
 → [pharma-review-skills](https://github.com/MKTerXiaoV/pharma-review-skills)（复制链接发给你的 AI，说"帮我装这套技能"）
+
+只想装最新的洞察体检（审一句话是洞察还是常识）→ [insight-review](https://github.com/MKTerXiaoV/insight-review)
 
 ## 🗂 区域经营档案（给销售）
 
